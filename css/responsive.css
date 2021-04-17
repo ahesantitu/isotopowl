@@ -1,0 +1,465 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*=====Common Css======*/
+h1{
+	font-size: 30px;
+	line-height: 35px;
+}
+.section-title1{
+	font-size: 30px;
+	line-height: 35px;
+	
+}
+.section-title2{
+	font-size:30px;
+	line-height: 35px; 
+}
+h3{
+	font-size: 25px;
+}
+p{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: justify;
+}
+/*=======Main MENU START========*/
+.menu ul{
+	text-align: right;
+}
+.menu ul li a{
+	font-size: 18px;
+}
+
+.navbar-toggler{
+ 	border: none;
+ 	outline: none;
+ }
+ .navbar-toggler:focus{
+ 	box-shadow: none;
+ }
+ .navbar-toggler i{
+	font-size: 30px;
+	color:#fff;
+}
+
+.banner-content button{
+	font-size: 18px;
+}
+/*=======Main MENU END========*/
+
+/*======Traditional Part Start======*/
+.traditional{
+	padding: 0;
+}
+.tra-content{
+	padding: 60px 30px 0;
+}
+
+.tra-content p{
+	text-align: justify;
+}
+
+.all-new-taste{
+	padding:40px 0 20px ;
+}
+
+.taste{
+	padding: 20px 30px;
+	text-align: justify;
+}
+.taste h3{
+	margin:10px 0;
+
+}
+.taste p{
+	text-align: justify;
+}
+
+/*======Traditional Part End======*/
+
+.plate-img{
+	width: 100%;
+}
+.plate-img img{
+	width: 100%;
+}
+
+.made-easy{
+	padding:45px 0;
+}
+.left{
+	display: none;
+	visibility: hidden;
+}
+.right{
+	display: none;
+	visibility: hidden;
+}
+.made-easy-content{
+	padding: 0 20px;
+}
+.made-easy-content h1 {
+    font-size: 30px;
+}
+.made-easy-content p{
+	padding: 10px 0;
+}
+.made-easy-content ul li{
+	padding: 5px 0;
+	font-size: 16px;
+
+}
+.book-here{
+	padding: 45px 0;
+}
+.book-content{
+	padding: 15px
+}
+.menu-discription h3{
+	font-size: 20px;
+}
+.new-menu-item{
+	padding: 20px 10px;
+}
+.spices-img{
+	height: 400px;
+}
+.social-content{
+	padding: 0 20px;
+}
+
+.social-media ul li i{
+	font-size: 20px;
+	
+}
+
+/*=====Contact Part Start=====*/
+.contact{
+	padding: 45px 0;
+}
+.contact-content{
+padding: 0 20px;
+}
+.contact-content h1{
+	 padding: 0 0 20px;
+}
+
+.contact-content p{
+	padding: 0;
+}
+
+.contact-content2 h4{
+	padding: 0 0 20px;
+	font-size: 20px;
+}
+.contact-content2 p{
+	font-size: 15px;
+}
+/*=====Contact Part Start=====*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+	/*=====Common Css======*/
+h1{
+	font-size: 35px;
+	line-height: 35px;
+}
+.section-title1{
+	font-size: 35px;
+	line-height: 35px;
+	
+}
+.section-title2{
+	font-size:35px;
+	line-height: 35px; 
+}
+h3{
+	font-size: 25px;
+}
+p{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: justify;
+}
+	.menu ul{
+	text-align: right;
+}
+.menu ul li a{
+	font-size: 20px;
+}
+
+.navbar-toggler{
+ 	border: none;
+ 	outline: none;
+ }
+ .navbar-toggler:focus{
+ 	box-shadow: none;
+ }
+ .navbar-toggler i{
+	font-size: 30px;
+	color:#fff;
+}
+
+/*======Traditional Part Start======*/
+.traditional{
+	padding: 0;
+}
+.tra-content{
+	padding: 60px 30px 0;
+}
+
+.tra-content p{
+	text-align: justify;
+}
+
+.all-new-taste{
+	padding:45px 0 20px ;
+}
+
+.taste{
+	padding: 20px 30px;
+	text-align: justify;
+}
+.taste h3{
+	margin:10px 0;
+
+}
+.taste p{
+	text-align: justify;
+}
+
+/*======Traditional Part End======*/
+
+.plate-img{
+	width: 100%;
+}
+.plate-img img{
+	width: 100%;
+}
+
+.made-easy{
+	padding:45px 0;
+}
+.left{
+	display: none;
+	visibility: hidden;
+}
+.right{
+	display: none;
+	visibility: hidden;
+}
+.made-easy-content{
+	padding: 0 20px;
+}
+.made-easy-content p{
+	padding: 10px 0;
+}
+.made-easy-content ul li{
+	padding: 5px 0;
+	font-size: 16px;
+
+}
+.book-content{
+	padding: 15px
+}
+
+.new-menu-item{
+	padding: 20px 10px;
+}
+.spices-img{
+	height: 400px;
+}
+.social-content{
+	padding: 0 20px;
+}
+
+.social-media ul li i{
+	font-size: 25px;
+	
+}
+
+/*=====Contact Part Start=====*/
+.contact{
+	padding: 45px 0;
+}
+.contact-content{
+padding: 0 20px;
+}
+.contact-content h1{
+	 padding: 0 0 20px;
+}
+
+.contact-content p{
+	padding: 0;
+}
+
+.contact-content2 h4{
+	padding: 0 0 20px;
+	font-size: 20px;
+}
+.contact-content2 p{
+	font-size: 15px;
+}
+/*=====Contact Part Start=====*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*=====Common Css======*/
+h1{
+	font-size: 40px;
+	line-height: 35px;
+}
+.section-title1{
+	font-size: 40px;
+	line-height: 35px;
+	
+}
+.section-title2{
+	font-size:40px;
+	line-height: 35px; 
+}
+h3{
+	font-size: 25px;
+}
+p{
+	font-size: 17px;
+	line-height: 20px;
+	text-align: justify;
+}	
+.menu ul{
+	text-align: right;
+}
+.menu ul li a{
+	font-size: 20px;
+}
+
+.navbar-toggler{
+ 	border: none;
+ 	outline: none;
+ }
+ .navbar-toggler:focus{
+ 	box-shadow: none;
+ }
+ .navbar-toggler i{
+	font-size: 30px;
+	color:#fff;
+}
+/*======Traditional Part Start======*/
+.traditional{
+	padding: 0;
+}
+.tra-content{
+	padding: 70px 35px 0;
+}
+
+.tra-content p{
+	text-align: justify;
+}
+
+.all-new-taste{
+	padding:55px 0 20px ;
+}
+
+.taste{
+	padding: 20px 30px;
+	text-align: justify;
+}
+.taste h3{
+	margin:10px 0;
+
+}
+.taste p{
+	text-align: justify;
+}
+
+/*======Traditional Part End======*/
+
+.plate-img{
+	width: 100%;
+}
+.plate-img img{
+	width: 100%;
+}
+
+.made-easy{
+	padding:55px 0;
+}
+.left{
+	display: none;
+	visibility: hidden;
+}
+.right{
+	display: none;
+	visibility: hidden;
+}
+.made-easy-content{
+	padding: 0 20px;
+}
+.made-easy-content p{
+	padding: 10px 0;
+}
+.made-easy-content ul li{
+	padding: 10px 15px;
+	font-size: 20px;
+
+}
+.new-menu-item{
+	padding: 20px 10px;
+}
+.spices-img{
+	height: 500px;
+}
+.social-content{
+	padding: 0 20px;
+}
+
+.social-media ul li i{
+	font-size: 25px;
+	
+}
+
+/*=====Contact Part Start=====*/
+.contact{
+	padding: 55px 0;
+}
+.contact-content{
+padding: 0 20px;
+}
+.contact-content h1{
+	 padding: 0 0 20px;
+}
+
+.contact-content p{
+	padding: 0;
+}
+
+.contact-content2 h4{
+	padding: 0 0 20px;
+	font-size: 20px;
+}
+.contact-content2 p{
+	font-size: 15px;
+}
+/*=====Contact Part Start=====*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+}
